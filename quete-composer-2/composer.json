@@ -1,0 +1,16 @@
+{
+    "name": "arthurg/quete-composer-2",
+    "description": "Projet quete composer",
+    "autoload": {
+        "psr-4": {
+            "App\\Wcs\\": "src/Wcs"
+        }
+    },
+    "authors": [
+        {
+            "name": "arthurg",
+            "email": "arthur.gouaux@gmail.com"
+        }
+    ],
+    "require": {}
+}
